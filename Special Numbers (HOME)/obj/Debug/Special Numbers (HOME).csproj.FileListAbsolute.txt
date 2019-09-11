@@ -1,0 +1,7 @@
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Special Numbers (HOME)\bin\Debug\Special Numbers (HOME).exe.config
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Special Numbers (HOME)\bin\Debug\Special Numbers (HOME).exe
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Special Numbers (HOME)\bin\Debug\Special Numbers (HOME).pdb
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Special Numbers (HOME)\obj\Debug\Special Numbers (HOME).csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Special Numbers (HOME)\obj\Debug\Special Numbers (HOME).exe
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Special Numbers (HOME)\obj\Debug\Special Numbers (HOME).pdb
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Special Numbers (HOME)\obj\Debug\Special Numbers (HOME).csprojAssemblyReference.cache

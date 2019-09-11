@@ -1,0 +1,7 @@
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Sum Prime Non Prime (HOME)\bin\Debug\Sum Prime Non Prime (HOME).exe.config
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Sum Prime Non Prime (HOME)\bin\Debug\Sum Prime Non Prime (HOME).exe
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Sum Prime Non Prime (HOME)\bin\Debug\Sum Prime Non Prime (HOME).pdb
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Sum Prime Non Prime (HOME)\obj\Debug\Sum Prime Non Prime (HOME).csprojAssemblyReference.cache
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Sum Prime Non Prime (HOME)\obj\Debug\Sum Prime Non Prime (HOME).csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Sum Prime Non Prime (HOME)\obj\Debug\Sum Prime Non Prime (HOME).exe
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Sum Prime Non Prime (HOME)\obj\Debug\Sum Prime Non Prime (HOME).pdb
