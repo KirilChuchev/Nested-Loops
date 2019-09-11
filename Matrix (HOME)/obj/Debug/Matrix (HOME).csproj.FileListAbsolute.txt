@@ -1,0 +1,7 @@
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Matrix (HOME)\bin\Debug\Matrix (HOME).exe.config
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Matrix (HOME)\bin\Debug\Matrix (HOME).exe
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Matrix (HOME)\bin\Debug\Matrix (HOME).pdb
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Matrix (HOME)\obj\Debug\Matrix (HOME).csprojAssemblyReference.cache
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Matrix (HOME)\obj\Debug\Matrix (HOME).csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Matrix (HOME)\obj\Debug\Matrix (HOME).exe
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Matrix (HOME)\obj\Debug\Matrix (HOME).pdb
