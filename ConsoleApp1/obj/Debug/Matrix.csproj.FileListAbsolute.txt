@@ -1,0 +1,7 @@
+C:\Users\kickz_oob\source\repos\Exercise 17.02\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\kickz_oob\source\repos\Exercise 17.02\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\kickz_oob\source\repos\Exercise 17.02\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\kickz_oob\source\repos\Exercise 17.02\ConsoleApp1\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\repos\Exercise 17.02\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\kickz_oob\source\repos\Exercise 17.02\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\kickz_oob\source\repos\Exercise 17.02\ConsoleApp1\obj\Debug\Matrix.csprojAssemblyReference.cache

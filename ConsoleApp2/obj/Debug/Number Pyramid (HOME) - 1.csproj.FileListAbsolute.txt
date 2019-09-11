@@ -1,0 +1,6 @@
+C:\Users\kickz_oob\source\repos\Exercise 17.02\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\kickz_oob\source\repos\Exercise 17.02\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\kickz_oob\source\repos\Exercise 17.02\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\kickz_oob\source\repos\Exercise 17.02\ConsoleApp2\obj\Debug\Number Pyramid (HOME) - 1.csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\repos\Exercise 17.02\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\kickz_oob\source\repos\Exercise 17.02\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

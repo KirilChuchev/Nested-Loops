@@ -1,0 +1,6 @@
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Coding\bin\Debug\Coding.exe.config
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Coding\bin\Debug\Coding.exe
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Coding\bin\Debug\Coding.pdb
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Coding\obj\Debug\Coding.csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Coding\obj\Debug\Coding.exe
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Coding\obj\Debug\Coding.pdb
