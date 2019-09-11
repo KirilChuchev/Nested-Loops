@@ -1,0 +1,2 @@
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Exercise 17.02\obj\Debug\Exercise 17.02.csprojAssemblyReference.cache
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Exercise 17.02\obj\Debug\Exercise 17.02.csproj.CoreCompileInputs.cache

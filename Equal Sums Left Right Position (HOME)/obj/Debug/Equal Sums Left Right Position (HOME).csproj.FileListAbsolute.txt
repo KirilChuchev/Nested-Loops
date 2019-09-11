@@ -1,0 +1,7 @@
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Equal Sums Left Right Position (HOME)\bin\Debug\Equal Sums Left Right Position (HOME).exe.config
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Equal Sums Left Right Position (HOME)\bin\Debug\Equal Sums Left Right Position (HOME).exe
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Equal Sums Left Right Position (HOME)\bin\Debug\Equal Sums Left Right Position (HOME).pdb
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Equal Sums Left Right Position (HOME)\obj\Debug\Equal Sums Left Right Position (HOME).csprojAssemblyReference.cache
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Equal Sums Left Right Position (HOME)\obj\Debug\Equal Sums Left Right Position (HOME).csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Equal Sums Left Right Position (HOME)\obj\Debug\Equal Sums Left Right Position (HOME).exe
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Equal Sums Left Right Position (HOME)\obj\Debug\Equal Sums Left Right Position (HOME).pdb

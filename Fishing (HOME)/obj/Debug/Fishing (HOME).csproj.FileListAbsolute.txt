@@ -1,0 +1,7 @@
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Fishing (HOME)\bin\Debug\Fishing (HOME).exe.config
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Fishing (HOME)\bin\Debug\Fishing (HOME).exe
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Fishing (HOME)\bin\Debug\Fishing (HOME).pdb
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Fishing (HOME)\obj\Debug\Fishing (HOME).csprojAssemblyReference.cache
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Fishing (HOME)\obj\Debug\Fishing (HOME).csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Fishing (HOME)\obj\Debug\Fishing (HOME).exe
+C:\Users\kickz_oob\source\repos\Exercise 17.02\Fishing (HOME)\obj\Debug\Fishing (HOME).pdb
